@@ -1,0 +1,38 @@
+form {
+    max-width: 600px;
+    background-color: gray;
+    margin: 100px auto;
+    padding: 60px;
+    border-radius: 10px;
+    font-size: 20px;
+  }
+  form div input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: solid 4px blue;
+    outline: 0;
+  }
+  form div input:focus {
+    border-color: brown;
+  }
+  
+  .submit { 
+      padding: 10px;
+      font-style: oblique;
+      margin: auto;
+      color: brown;
+      max-width: 100px;
+      outline: 0;
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
